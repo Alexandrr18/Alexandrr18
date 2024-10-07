@@ -25,6 +25,5 @@
   <br/>
   <a href="https://t.me/Alexandrr18"><img src="https://img.shields.io/badge/telegram-237199.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a><br/>
   <a href="mailto:Ham.Kluew@yandex.ru"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a><br/>
-  <a href="https://vk.com/sarapul1994"><img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue
-  "/></a><br/>
+  <a href="https://vk.com/sarapul1994"><img src="https://img.shields.io/badge/VKontakte-blue"/></a><br/>
 </p>
