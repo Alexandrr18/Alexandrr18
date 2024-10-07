@@ -1,5 +1,5 @@
 <p>
-  <img img align="right" alt="GIF" src="https://raw.githubusercontent.com/sk8-pl/sk8-pl/main/assets/programmer.gif?raw=true" width="400" height="280" />
+  <img img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" height="280" />
   <p>
     <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -23,8 +23,8 @@
 <p>
   📇 Contacts:<br/>
   <br/>
-  <a href="https://t.me/sk8_pl"><img src="https://img.shields.io/badge/telegram-237199.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a><br/>
-  <a href="mailto:platon.sarapul@gmail.com"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a><br/>
-  <a href="https://instagram.com/platon.sk"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a><br/>
-  <a href="https://linkedin.com/in/sk8-pl"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/Alexandrr18"><img src="https://img.shields.io/badge/telegram-237199.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a><br/>
+  <a href="mailto:Ham.Kluew@yandex.ru"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a><br/>
+  <a href="https://vk.com/sarapul1994"><img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue
+  "/></a><br/>
 </p>
